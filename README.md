@@ -26,10 +26,9 @@ r.interactive()
 first run ` ; ls ` in order to check what files are in the current direcotry
 ```
 tal@tal-VirtualBox:~$ nc pwnable.co.il 9013
-
 Hello!
-
 What's your name?
+
 ; ls
 
 Hello
